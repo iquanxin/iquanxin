@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 我目前是一名自由职业软件开发工程师
 - 🌱 我目前正在学习Rust
-- 👯 我目前的技术栈是：Rust、Go、Javascript、Mysql、Sqlite
+- 👯 我目前的技术栈是：Rust、Go
 - 💬 如何联系我： 邮件：iquanxin(at)aliyun.com
